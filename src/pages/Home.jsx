@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className="container">
       <section className="hero">
-        <h1>Welcome to VijayStores</h1>
+        <h1>Welcome to Shop Hub</h1>
         <p>
           Discover amazing products at unbeatable prices.
         </p>
