@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo">
-        <h2>VijayStores</h2>
+        <h2>Shop Hub</h2>
       </div>
 
       <ul className="nav-links">
